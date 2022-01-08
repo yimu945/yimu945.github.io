@@ -25,12 +25,9 @@ if ($passwd == 860804){
     echo "<video src='video/下載.mp4' controls autoplay muted loop width='480'>瀏覽器無法載入影片</video>";
     echo "<br/>";
     echo "<h3>本本</h3>";
-    echo "<video src='video/本本.mp4' controls autoplay muted loop width='1920'>瀏覽器無法載入影片</video>";
-    echo "<br/>";
-    echo "<br/>";
-    echo "<h3>國手 戴資穎 外流</h3>";
-    echo "<video src='video/國手 戴資穎 .mp4' controls autoplay muted loop width='1920'>瀏覽器無法載入影片</video>";
-    echo "<video src='video/國手 戴資穎 2.mp4' controls autoplay muted loop width='1920'>瀏覽器無法載入影片</video>";
+    echo "<video src='video/bunbun.mp4' controls autoplay muted loop width='1920'>瀏覽器無法載入影片</video>";
+  
+    
     echo "<br/>";
     echo "<br/>";
     
