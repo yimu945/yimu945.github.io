@@ -1,0 +1,9 @@
+body{
+    background-color: rgba(0,0,255,.2);
+    text-align: center;
+    border: 3px solid rgba(255,0,0,.3);
+    padding: 16px;
+    font-family: DFKai-sb;
+    font-size: 1.2cm;
+
+}

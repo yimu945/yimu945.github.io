@@ -1,0 +1,28 @@
+body{
+    background-color: rgba(0,0,255,.2);
+    text-align: center;
+    font-family: Microsoft JhengHei;
+    font-size: xx-large;
+}
+#fm{
+    text-align: center;
+    border: 3px solid rgba(255,0,0,.3);
+    padding: 16px;
+
+}
+#fm input{
+    border: 2px solid rgba(150,150,150,1);
+    height: 35px;
+    padding-left: 8px;
+}
+
+#fm button{
+    width: 80px;
+    height: 30px;
+    margin-top: 16px;
+}
+
+ol.demo{
+    background-color:#54FF9F;
+    text-align: left;
+   }
